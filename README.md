@@ -8,6 +8,8 @@ Throughout the course, I progressed from understanding the mathematical foundati
 
 Rather than simply completing assignments, I focused on understanding how machine learning models transition from Python-based experimentation to efficient execution on edge hardware.
 
+-Note: Since I don't have the VSDSquadron Pro board, I have utilised SifiveStudio in the GitHub virtual lab.
+
 ---
 
 # Course Objectives
