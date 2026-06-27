@@ -74,6 +74,6 @@ One of the most valuable takeaways from this course was understanding how machin
 
 ---
 
-# Author
+## Author
 
 S. Ashrithi
