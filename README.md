@@ -2,7 +2,7 @@
 
 ## About
 
-This repository documents my journey through the **RISC-V Edge AI** course, where I explored the deployment of Machine Learning models on resource-constrained embedded systems.
+This repository documents my journey through the **VSD IAT RISC-V Edge AI** course, where I explored the deployment of Machine Learning models on resource-constrained embedded systems.
 
 Throughout the course, I progressed from understanding the mathematical foundations of Machine Learning to implementing optimized inference pipelines suitable for embedded RISC-V processors. The labs covered optimization techniques, classical machine learning algorithms, quantization, and deployment of trained models in Embedded C
 
