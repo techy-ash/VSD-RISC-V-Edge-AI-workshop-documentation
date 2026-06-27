@@ -25,17 +25,6 @@ The primary objectives of this course were:
 
 ---
 
-# Repository Structure
-RISCV-Edge-AI-Course/
-│
-├── Lab-1-Gradient-Descent/
-├── Lab-2-KNN/
-├── Lab-3-Quantized-SVM/
-├── Lab-4-Neural-Networks/
-
-
----
-
 # Skills Acquired
 
 - Gradient Descent Optimization
